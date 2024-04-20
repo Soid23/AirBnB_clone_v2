@@ -3,7 +3,7 @@
 starts a web flask appli
 """
 
-from flask impor Flask
+from flask import Flask
 
 app = Flask(__name__)
 
